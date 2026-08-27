@@ -2,12 +2,12 @@
   {
     "name": "Backup 1",
     "url": "https://demo.mediatekvpn.uk/",
-    "active": false
+    "active": true
   },
   {
     "name": "Backup 2",
     "url": "https://mtkvpn.dpdns.org/",
-    "active": true
+    "active": false
   },
   {
     "name": "Backup 3",
