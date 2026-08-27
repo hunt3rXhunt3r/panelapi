@@ -1,12 +1,7 @@
 [
   {
-    "name": "Main Domain",
+    "name": "Main Server",
     "url": "https://mtkvpn.dpdns.org/",
     "active": true
-  },
-  {
-    "name": "Backup Domain",
-    "url": "https://bak.iyongdomain.com/",
-    "active": false
   }
 ]
