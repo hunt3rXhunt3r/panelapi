@@ -3,15 +3,5 @@
     "name": "Backup 1",
     "url": "https://demo.mediatekvpn.uk/",
     "active": true
-  },
-  {
-    "name": "Backup 2",
-    "url": "https://mtkvpn.dpdns.org/",
-    "active": false
-  },
-  {
-    "name": "Backup 3",
-    "url": "https://vip.mediatekvpn.uk/",
-    "active": false
   }
 ]
