@@ -3,7 +3,7 @@
     "name": "Main Server",
     "url": "https://demo.mediatekvpn.uk/",
     "active": true,
-    "isKilled": true
+    "isKilled": false
   },
   {
     "name": "App Kill",
